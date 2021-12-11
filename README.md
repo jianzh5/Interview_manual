@@ -11,12 +11,6 @@
 
 ## [mybatis 27道](/mybatis/README.md)
 
-## [mybatis 27道](/mybatis/README.md)
-
-## [mybatis 27道](/mybatis/README.md)
-
-## [mybatis 27道](/mybatis/README.md)
-
 
 
 
