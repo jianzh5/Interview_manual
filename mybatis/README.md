@@ -153,7 +153,7 @@ Dao 接口即 Mapper 接口。
 接口方法内的参数，就是传递给 sql 的参数。
 
 Mapper 接口是没有实现类的，当调用接口方法时，接口全限名+方法名拼接字符串作为 key 值，可唯一定位一个 MapperStatement。在 Mybatis 中，每一
-个<select>、<insert>、<update>、<delete>标签，都会被解析为一个MapperStatement 对象。
+个`<select>`、`<insert>`、`<update>`、`<delete>`标签，都会被解析为一个MapperStatement 对象。
 
 举例：`com.mybatis3.mappers.StudentDao.findStudentById`，可以唯一找到 namespace 为 `com.mybatis3.mappers.StudentDao` 下面 id 为
 `findStudentById` 的 MapperStatement。
